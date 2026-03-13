@@ -1,0 +1,36 @@
+.div1{
+    margin: 50px;
+    background-color: rgb(210, 252, 162);
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+
+#btn{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 600;
+    background-color: rgb(32, 146, 32);
+    color: aliceblue;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.div3{
+    margin: 50px;
+    background-color: rgb(164, 218, 103);
+    padding: 10px;
+    text-align: center;
+    height: 400px;
+    position: relative;
+}
+
+#object{
+    background-color: brown;
+    border-radius: 50%;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    left: 50%;
+}
